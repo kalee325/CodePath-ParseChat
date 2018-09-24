@@ -41,6 +41,7 @@ class ChatViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     @IBAction func sendButton(_ sender: Any) {
         let chatMessage = PFObject(className: "Message")
+        chatMessage["user"] = PFUser.current()
         chatMessage["text"] = chatMessageField.text ?? ""
         
         chatMessage.saveInBackground { (success, error) in
