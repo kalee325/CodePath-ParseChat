@@ -13,7 +13,7 @@ The following **required** user stories are complete:
 - [x] User can compose and send chat messages (+2pt)
 - [x] User can view a list of chat messages in chronological order (+2pt)
 - [x] Automatically Adjust Cell Size to Fit Text (+1pt)
-- [ ] Username of chat author is displayed in each chat message (+2pt)
+- [x] Username of chat author is displayed in each chat message (+2pt)
 - [x] Persist Logged in User (+1pt)
 
 The following **stretch** user stories are implemented:
@@ -37,7 +37,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/NrizNvc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/OakCUwS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
